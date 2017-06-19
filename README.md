@@ -1,5 +1,5 @@
 # mimipy
-Remove break lines from txt files
+Remove break lines from plane text files
 
 <b>How To Use it</b><br><br>
 <ul>
